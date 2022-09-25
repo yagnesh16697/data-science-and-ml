@@ -2,9 +2,9 @@
 
 
 
-## Topics 
+## Topics Covered
 
 - [X] Numpy
 - [X] Pandas
 - [X] Matplotlib
-- [X] seaborn Data Visulization
+- [X] Seaborn Data Visualizations
