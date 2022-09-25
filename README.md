@@ -4,7 +4,7 @@
 
 ## Topics 
 
-[X] Numpy
-[X] Pandas
-[X] Matplotlib
-[X] seaborn Data Visulization
+- [X] Numpy
+- [X] Pandas
+- [X] Matplotlib
+- [X] seaborn Data Visulization
