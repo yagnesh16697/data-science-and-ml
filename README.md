@@ -1,3 +1,10 @@
-# Python
+# Data Science 
 
-## Trying...
+
+
+## Topics 
+
+[X] Numpy
+[X] Pandas
+[X] Matplotlib
+[X] seaborn Data Visulization
