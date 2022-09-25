@@ -2,7 +2,7 @@
 
 
 
-## Topics 
+## Topics Covered
 
 - [X] Numpy
 - [X] Pandas
