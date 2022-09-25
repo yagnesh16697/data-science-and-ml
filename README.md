@@ -7,4 +7,4 @@
 - [X] Numpy
 - [X] Pandas
 - [X] Matplotlib
-- [X] seaborn Data Visualizations
+- [X] Seaborn Data Visualizations
